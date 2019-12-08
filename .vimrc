@@ -1,4 +1,4 @@
-" 原文地址 https://github.com/sazczmh/use_vim_as_ide
+" 原文地址 https://github.com/yangyangwithgnu/use_vim_as_ide
 " 本文说明 本配置文件是在原文的基础上简单修改的版本
 
 
